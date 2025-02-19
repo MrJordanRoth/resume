@@ -127,19 +127,41 @@ experience:
         + First
         + Second
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+    - company: Hughes Office Equipment
+      link: 'https://hughesteam.net'
+      tags: Full-time
+      date: 04-2006 - 01-2024
+      role: System & Network Administrator / Xerox Agent Analyst - Consultant
+      location: Bellaire, OH
       description: |
         Your key responsibilities and achievements in the company.
         + First
         + Second
 
+    - company: Hughes Office Equipment
+      link: 'https://hughesteam.net'
+      tags: Full-time
+      date: 01-2019 - 12-2019
+      role: Xerox IJP2000 Technician
+      location: Bellaire, OH
+      description: |
+        Provide customer training and support on the Xerox IJP2000 with the Caldera digial front end.
+        + First
+        + Second
+
+    - company: Wheeling County Day School
+      link: "https://www.wcdsedu.com/'
+      tags: Full-time
+      date: 05-2004 - 04-2006
+      role: Information Technology Coordinator
+      location: Wheeling, WV
+      description: |
+        Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as wells as its' staff.
+        + Computers/Servers/Networking: Widows NT Server, Windows 2003 R2, Fedora Core 4, Windows 98, Windows XP Professional, Netgear router, and Netgear swtich
+        + Organization Size: Less then 75 users
+
 project:
-  show: false
+  show: true
   order: 3
   title: Projects
   description: |
@@ -150,12 +172,16 @@ project:
     The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
+    - name: Desktop Support Technician
       link: '#'
-      tags:
-      date: 2015 - 2017
+      tags: Genesis10
+      date: 2011 - 2012
       description: |
-        Personal project description...
+        During the period of November 2011 to January 2012, I worked as a contract employee on weekends for Genesis10. My role was to assist CompuCom and PNC Bank with a hardware refresh project on the East Coast.
+
+        As part of a team of four members, which included a team lead, our primary responsibility was to replace all teller and management computers, multifunction devices, and digital multimedia computers. We followed detailed instructions provided by CompuCom and PNC Bank professionals to ensure a seamless transition.
+
+Through effective collaboration and diligent attention to detail, we successfully completed the hardware refresh project on time and within budget. My contributions as a contract employee helped to ensure that the project was a success and that both CompuCom and PNC Bank were satisfied with the results.
         + First
         + Second
 
