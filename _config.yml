@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
-title: Online Resume
-url:
+title: Jordan Roth | IT Professional, Leader, and Problem Solver
+url: resume.mrjordanroth.com
 baseurl:
 
 # Sass setting
@@ -31,7 +31,8 @@ site_footer: true           # show site footer, 'true' or 'false'
 analytics:
   google:                   # google
   cloudflare:               # cloudflare
-  umami:                    # umami (Replace it with your own)
-    script: https://u.tarrex.com/u.js
-    website_id: af636e2d-31ae-46f1-9071-82b1745143a9
-    domains: tarrex.github.io,tarrex.com
+#  umami:                    # umami (Replace it with your own)
+# Commented out because I don't have a umami account
+#    script: https://u.tarrex.com/u.js
+#    website_id: af636e2d-31ae-46f1-9071-82b1745143a9
+#    domains: tarrex.github.io,tarrex.com
