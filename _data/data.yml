@@ -102,13 +102,13 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: About
   description: |
     As technology advances, I am committed to being an invaluable asset to any team by confidently tackling diverse projects. Since starting my IT journey in 2004, I have cultivated a passion for problem-solving and ensuring infrastructure remains at the cutting edge. My experience spans from simple peer-to-peer networks to managing Active Directory domains with over 20 users.
 
     I seek to join an organization that can benefit from my extensive server and network administration expertise, hardware and software troubleshooting, and Xerox implementation. Together, we can achieve new heights of success.
 
-    Specialties:
+    <b>Specialties:</b>
     + Management
     + Server and Network Administration
     + Hardware and Software Troubleshooting
@@ -131,9 +131,7 @@ experience:
       role: IT Manager
       location: Bellaire, OH
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Description coming soon...
 
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
@@ -143,8 +141,6 @@ experience:
       location: Bellaire, OH
       description: |
         Provide customer training and support on the Xerox IJP2000 with the Caldera digial front end.
-        + First
-        + Second
 
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
@@ -153,9 +149,7 @@ experience:
       role: System & Network Administrator / Xerox Agent Analyst - Consultant
       location: Bellaire, OH
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Description coming soon...
 
     - company: Wheeling County Day School
       link: 'https://www.wcdsedu.com/'
@@ -165,6 +159,7 @@ experience:
       location: Wheeling, WV
       description: |
         Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as wells as its' staff.
+        
         + Computers/Servers/Networking: Widows NT Server, Windows 2003 R2, Fedora Core 4, Windows 98, Windows XP Professional, Netgear router, and Netgear swtich
         + Organization Size: Less then 75 users
 
