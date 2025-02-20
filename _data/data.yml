@@ -235,7 +235,7 @@ education:
    
   items:
     - institution: Pittsburgh Technical College (Pittsburgh Technical Institute)
-      link: '#'
+      link:
       date: 2004 - 2006
       major: Information Technology, Network Administration
       degree: Associates of Science
