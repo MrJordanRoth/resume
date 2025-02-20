@@ -129,7 +129,7 @@ experience:
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
       tags: Full-time
-      date: Jan 2019 -  Dec 2019
+      date: January 2019 -  December 2019
       role: Xerox IJP2000 Technician
       location: Bellaire, OH
       description: |
@@ -140,7 +140,7 @@ experience:
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
       tags: Full-time
-      date: Apr 2006 - Dec 2023
+      date: April 2006 - December 2023
       role: System & Network Administrator / Xerox Agent Analyst - Consultant
       location: Bellaire, OH
       description: |
@@ -151,7 +151,7 @@ experience:
     - company: Wheeling County Day School
       link: 'https://www.wcdsedu.com/'
       tags: Full-time
-      date: 05-2004 - 04-2006
+      date: May 2004 - April 2006
       role: Information Technology Coordinator
       location: Wheeling, WV
       description: |
@@ -181,14 +181,6 @@ project:
         + First
         + Second
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
 
 skill:
   show: false
@@ -250,25 +242,13 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
+    - institution: Pittsburgh Technical College (Pittsburgh Technical Institute)
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 2004 - 2006
+      major: Information Technology, Network Administration
+      degree: Associates of Science
       description: |
-        Additional information for this institution.
-        + First
-        + Second
-
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Network engineering, computer hardware engineering, Windows Operating Systems, Red Hat Operating Systems, Active Directory, DNS, WINS, Cisco, Microsoft SQL, Visual Basic 6.0, Microsoft Office, web programming, web servers, email servers, FTP servers, remote installation,Remote Installation Server, Symantec Ghost, Microsoft Virtual Server , VMware.
 
 certificate:
   show: false
