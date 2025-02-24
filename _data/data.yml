@@ -131,7 +131,18 @@ experience:
       role: IT Manager
       location: Bellaire, OH
       description: |
-        Description coming soon...
+        As the Ohio Valley's top provider for office document solutions, Hughes Office Equipment leads the industry with unmatched expertise. With over a decade of experience in the copier industry, I transitioned from Xerox Agent Analyst to the role of I.T. Manager, where I have taken on more responsibilities and continue to provide both remote and on-site support to our customers. In March 2023, we combined the Administration Department and the Network Analysts into one department, the Operations Department. In this new role, I manage a small but effective team of four.
+
+        Key Responsibilities and Achivements:
+        + Team Leadership: Foster and lead a highly-skilled team of I.T. professionals, creating a collaborative and efficient work environment.
+        + Customer Documentation: Develop and maintain accurate customer documentation to ensure clarity and continuity.
+        + Process Implementation: Establish and implement processes that drive the long-term growth and sustainability of the department and the company.
+        + Customer Complaint Management: Handle all I.T. related customer complaints and provide timely resolutions to maintain high customer satisfaction.
+        + Goal Setting and Achievement: Create and implement goals for the department's professionals, ensuring alignment with company objectives.
+        + Employee Development: Conduct consistent employee reviews throughout the year to support professional growth and performance.
+        + Customer Satisfaction: Maintain and exceed customer satisfaction through effective scheduling, implementation, training, and troubleshooting of all I.T. related matters.
+
+        At Hughes Office Equipment, we are committed to delivering best-in-class solutions to all of our customers, and I take pride in leading our I.T. department to achieve this goal.
 
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
@@ -149,8 +160,19 @@ experience:
       role: System & Network Administrator / Xerox Agent Analyst - Consultant
       location: Bellaire, OH
       description: |
-        Description coming soon...
+        With over a decade of experience at Hughes Office Equipment, the leading provider of comprehensive document management solutions in the Ohio Valley, I have honed my expertise in both system and network administration, as well as advanced document management solutions.
 
+        Key Responsibilities and Achivements:
+        + System and Network Administration: Maintain and manage the Microsoft Active Directory environment, implement and oversee Group Policies, and ensure seamless network operations through Sonicwall Site-to-site VPN and Managed HP switches.
+        + Telephony Systems Management: Administer the UX5000 digital phone system with VoIP integration, utilizing a PRI circuit to meet all telephony needs.
+        + Certified Xerox Systems Analyst: As a certified Systems Analyst by Xerox Corporation, I have completed over 500 training courses with a competency of 81% or higher, ensuring up-to-date knowledge and skills.
+        + Document Management Solutions: Provide expert support for printing and document management applications, with experience in both small business and large enterprise configurations.
+        + Hardware Expertise: Trained as a hardware technician for numerous Xerox devices, enabling swift resolution of hardware issues.
+        + Technology Implementation: Continuously research and implement the latest technologies to keep Hughes Office Equipment at the forefront of innovation.
+        + Comprehensive Documentation: Maintain thorough documentation using tools like Spiceworks to support system management and troubleshooting.
+
+        My dual role at Hughes Office Equipment allows me to deliver exceptional services and solutions, ensuring our customers receive the highest level of satisfaction. I am dedicated to driving our clients' success through cutting-edge technology and professional expertise.
+        
     - company: Wheeling County Day School
       link: 'https://www.wcdsedu.com/'
       tags: Full-time
