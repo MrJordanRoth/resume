@@ -3,8 +3,8 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Jordan Roth                      # name
-  title: IT Professional           # job title 
+  name: Jordan Roth         # name
+  title: IT Professional    # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github: mrjordanroth                  # https://github.com/<username>
+  github: mrjordanroth      # https://github.com/<username>
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -133,7 +133,7 @@ experience:
       description: |
         As the Ohio Valley's top provider for office document solutions, Hughes Office Equipment leads the industry with unmatched expertise. With over a decade of experience in the copier industry, I transitioned from Xerox Agent Analyst to the role of I.T. Manager, where I have taken on more responsibilities and continue to provide both remote and on-site support to our customers. In March 2023, we combined the Administration Department and the Network Analysts into one department, the Operations Department. In this new role, I manage a small but effective team of four.
 
-        Key Responsibilities and Achivements:
+        Key Responsibilities and Achievements:
         + Team Leadership: Foster and lead a highly-skilled team of I.T. professionals, creating a collaborative and efficient work environment.
         + Customer Documentation: Develop and maintain accurate customer documentation to ensure clarity and continuity.
         + Process Implementation: Establish and implement processes that drive the long-term growth and sustainability of the department and the company.
@@ -162,7 +162,7 @@ experience:
       description: |
         With over a decade of experience at Hughes Office Equipment, the leading provider of comprehensive document management solutions in the Ohio Valley, I have honed my expertise in both system and network administration, as well as advanced document management solutions.
 
-        Key Responsibilities and Achivements:
+        Key Responsibilities and Achievements:
         + System and Network Administration: Maintain and manage the Microsoft Active Directory environment, implement and oversee Group Policies, and ensure seamless network operations through Sonicwall Site-to-site VPN and Managed HP switches.
         + Telephony Systems Management: Administer the UX5000 digital phone system with VoIP integration, utilizing a PRI circuit to meet all telephony needs.
         + Certified Xerox Systems Analyst: As a certified Systems Analyst by Xerox Corporation, I have completed over 500 training courses with a competency of 81% or higher, ensuring up-to-date knowledge and skills.
@@ -180,10 +180,10 @@ experience:
       role: Information Technology Coordinator
       location: Wheeling, WV
       description: |
-        Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as wells as its' staff.
+        Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as well as its staff.
         
         + Computers/Servers/Networking: Widows NT Server, Windows 2003 R2, Fedora Core 4, Windows 98, Windows XP Professional, Netgear router, and Netgear swtich
-        + Organization Size: Less then 75 users
+        + Organization Size: Less than 75 users
 
 project:
   show: true
@@ -198,9 +198,6 @@ project:
       date: 2011 - 2012
       description: |
         From November 2011 to January 2012, I worked weekends as a contract employee for Genesis10, assisting CompuCom and PNC Bank with a hardware refresh project on the East Coast. As part of a four-member team, including a team lead, our primary responsibility was to replace teller and management computers, multifunction devices, and digital multimedia computers, following detailed instructions from CompuCom and PNC Bank professionals to ensure a seamless transition. Through effective collaboration and attention to detail, we successfully completed the project on time and within budget, ensuring both CompuCom and PNC Bank were satisfied with the results.
-        
-        + First
-        + Second
 
 
 skill:
@@ -266,7 +263,7 @@ education:
       major: Information Technology, Network Administration
       degree: Associates of Science
       description: |
-        Network engineering, computer hardware engineering, Windows Operating Systems, Red Hat Operating Systems, Active Directory, DNS, WINS, Cisco, Microsoft SQL, Visual Basic 6.0, Microsoft Office, web programming, web servers, email servers, FTP servers, remote installation,Remote Installation Server, Symantec Ghost, Microsoft Virtual Server , VMware.
+        Network engineering, computer hardware engineering, Windows Operating Systems, Red Hat Operating Systems, Active Directory, DNS, WINS, Cisco, Microsoft SQL, Visual Basic 6.0, Microsoft Office, web programming, web servers, email servers, FTP servers, remote installation, Remote Installation Server, Symantec Ghost, Microsoft Virtual Server, VMware.
 
 certificate:
   show: false
