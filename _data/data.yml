@@ -104,7 +104,7 @@ profile:
   order: 1
   title: About
   description: |
-    As technology advances, I am committed to being an invaluable asset to any team by confidently tackling diverse projects. Since starting my IT journey in 2004, I have cultivated a passion for problem-solving and ensuring infrastructure remains at the cutting edge. My experience spans from simple peer-to-peer networks to managing Active Directory domains with over 20 users.
+    As technology advances, I am committed to being an invaluable asset to any team by confidently tackling diverse projects. Since starting my IT journey in 2004, I have cultivated a passion for problem-solving and ensuring infrastructure remains current and efficient. My experience spans from simple peer-to-peer networks to managing Active Directory domains with over 20 users.
 
     I seek to join an organization that can benefit from my extensive server and network administration expertise, hardware and software troubleshooting, and Xerox implementation. Together, we can achieve new heights of success.
 
@@ -131,18 +131,18 @@ experience:
       role: IT Manager
       location: Bellaire, OH
       description: |
-        As the Ohio Valley's top provider for office document solutions, Hughes Office Equipment leads the industry with unmatched expertise. With over a decade of experience in the copier industry, I transitioned from Xerox Agent Analyst to the role of I.T. Manager, where I have taken on more responsibilities and continue to provide both remote and on-site support to our customers. In March 2023, we combined the Administration Department and the Network Analysts into one department, the Operations Department. In this new role, I manage a small but effective team of four.
+        As the Ohio Valley's top provider for office document solutions, Hughes Office Equipment leads the industry with unmatched expertise. With over a decade of experience in the copier industry, I transitioned from Xerox Agent Analyst to the role of IT Manager, where I have taken on more responsibilities and continue to provide both remote and on-site support to our customers. In March 2023, we combined the Administration Department and the Network Analysts into one department, the Operations Department. In this new role, I manage a small but effective team of four.
 
         Key Responsibilities and Achievements:
-        + Team Leadership: Foster and lead a highly-skilled team of I.T. professionals, creating a collaborative and efficient work environment.
+        + Team Leadership: Foster and lead a highly-skilled team of IT professionals, creating a collaborative and efficient work environment.
         + Customer Documentation: Develop and maintain accurate customer documentation to ensure clarity and continuity.
         + Process Implementation: Establish and implement processes that drive the long-term growth and sustainability of the department and the company.
-        + Customer Complaint Management: Handle all I.T. related customer complaints and provide timely resolutions to maintain high customer satisfaction.
+        + Customer Complaint Management: Handle all IT related customer complaints and provide timely resolutions to maintain high customer satisfaction.
         + Goal Setting and Achievement: Create and implement goals for the department's professionals, ensuring alignment with company objectives.
         + Employee Development: Conduct consistent employee reviews throughout the year to support professional growth and performance.
-        + Customer Satisfaction: Maintain and exceed customer satisfaction through effective scheduling, implementation, training, and troubleshooting of all I.T. related matters.
+        + Customer Satisfaction: Maintain and exceed customer satisfaction through effective scheduling, implementation, training, and troubleshooting of all IT related matters.
 
-        At Hughes Office Equipment, we are committed to delivering best-in-class solutions to all of our customers, and I take pride in leading our I.T. department to achieve this goal.
+        At Hughes Office Equipment, we are committed to delivering best-in-class solutions to all of our customers, and I take pride in leading our IT department to achieve this goal.
 
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
@@ -151,7 +151,7 @@ experience:
       role: Xerox IJP2000 Technician
       location: Bellaire, OH
       description: |
-        Provide customer training and support on the Xerox IJP2000 with the Caldera digial front end.
+        Provide customer training and support on the Xerox IJP2000 with the Caldera digital front end.
 
     - company: Hughes Office Equipment
       link: 'https://hughesteam.net'
@@ -163,7 +163,7 @@ experience:
         With over a decade of experience at Hughes Office Equipment, the leading provider of comprehensive document management solutions in the Ohio Valley, I have honed my expertise in both system and network administration, as well as advanced document management solutions.
 
         Key Responsibilities and Achievements:
-        + System and Network Administration: Maintain and manage the Microsoft Active Directory environment, implement and oversee Group Policies, and ensure seamless network operations through Sonicwall Site-to-site VPN and Managed HP switches.
+        + System and Network Administration: Maintain and manage the Microsoft Active Directory environment, implement and oversee Group Policies, and ensure seamless network operations through SonicWall Site-to-site VPN and Managed HP switches.
         + Telephony Systems Management: Administer the UX5000 digital phone system with VoIP integration, utilizing a PRI circuit to meet all telephony needs.
         + Certified Xerox Systems Analyst: As a certified Systems Analyst by Xerox Corporation, I have completed over 500 training courses with a competency of 81% or higher, ensuring up-to-date knowledge and skills.
         + Document Management Solutions: Provide expert support for printing and document management applications, with experience in both small business and large enterprise configurations.
@@ -180,9 +180,10 @@ experience:
       role: Information Technology Coordinator
       location: Wheeling, WV
       description: |
-        Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as well as its staff.
+        Manage the information technology systems at Wheeling Country Day School for Pre-K to 5th grade students as well as their staff.
         
-        + Computers/Servers/Networking: Widows NT Server, Windows 2003 R2, Fedora Core 4, Windows 98, Windows XP Professional, Netgear router, and Netgear swtich
+        + Computers/Servers/Networking: Windows NT Server, Windows 2003 R2, Fedora Core 4, Windows 98, Windows XP Professional, Netgear router, and Netgear switches.
+        + Software: Active Directory, DNS, DHCP, Symantec Ghost, Microsoft Office 2003, Symantec Antivirus, Deep Freeze, and various educational software.
         + Organization Size: Less than 75 users
 
 project:
